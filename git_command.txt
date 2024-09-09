@@ -1,0 +1,31 @@
+//create a new file---------------------------------------------------------------
+    code newfile.text
+
+//push----------------------------------------------------------------------------
+	git add .                              // to add all file 
+	git add filename                       // to add filename
+	git commit -m “commit message”         // commit
+	git push                               // push
+
+//pull ---------------------------------------------------------------------------
+	git pull origin main                   // pull the whole repo
+
+//create new branch --------------------------------------------------------------
+	git checkout -b 
+   	git checkout branchName                // to move to that branch
+   	git branch                             // to see the selected branch
+    
+//merge to main branch -----------------------------------------------------------
+git checkout main                          // Switch to the main branch
+git pull origin main                       // Ensure the main branch is up-to-date
+git merge test-branch                      // Merge test-branch into main
+git push origin main                       // Push the merged changes to the remote main branch
+
+
+
+Next target How to contribute to open source project 
+
+
+
+
+
