@@ -1285,7 +1285,6 @@ footer {
     flex-shrink: 0;
     align-items: center;
     justify-content: space-between;
-    width: 100%;
 }
 
 .book-img {
