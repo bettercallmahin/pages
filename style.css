@@ -227,6 +227,17 @@ nav button {
     align-items: center;
     gap: 10px;
 }
+nav button a {
+    color: #1B3764;
+    text-decoration: none;
+    font-family: Inter;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 125%;
+    /* 21.25px */
+    letter-spacing: -0.17px;
+}
 
 
 /* ==== cart popup ======= */
